@@ -1,0 +1,2 @@
+# tiplator
+Tip Calculator :) 
