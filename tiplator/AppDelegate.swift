@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  propinadora
+//  Tiplator
 //
 //  Created by Doris Hernandez on 9/7/16.
 //  Copyright © 2016 Doris Hernandez. All rights reserved.
